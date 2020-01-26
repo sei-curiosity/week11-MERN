@@ -221,7 +221,6 @@ Create a new directory called `db` and create a `schema.js` within there. Then, 
 * Idea has title, description, and created and updated-at timestamps.
 	* Make sure the default value for title and content is something similar to "New Title" and "New Content"
 
-**Take a look at [Sample Project Two](https://github.com/dphurley/sample_project_two) if you need a refresher on how to do this**
 
 > COMMIT
 
